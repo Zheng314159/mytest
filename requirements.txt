@@ -1,0 +1,6 @@
+pytest-asyncio
+nest-asyncio
+pytest-playwright
+playwright
+pytest
+

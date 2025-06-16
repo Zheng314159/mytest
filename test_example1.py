@@ -12,5 +12,5 @@ async def test_example1():
         
         page = await browser.new_page()
         await page.goto("https://example.com")
-        assert "example" in await page.title()
+        assert "Example Domain" in await page.title()
         await browser.close()

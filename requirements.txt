@@ -1,6 +1,7 @@
-pytest-asyncio
-nest-asyncio
 pytest-playwright
+pytest-asyncio
+pytest-html
+pytest-xdist
+nest-asyncio
 playwright
 pytest
-
